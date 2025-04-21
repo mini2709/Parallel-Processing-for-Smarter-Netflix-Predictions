@@ -1,4 +1,4 @@
-# Netflix Rating Prediction with Distributed Deep Learning
+# Parallel Processing for Smarter Netflix Predictions
 
 This research project explores how parallel computing and distributed training can optimize large-scale machine learning pipelines. We built an end-to-end system that processes over 1.5 million Netflix user reviews to predict 5-star ratings using machine learning and deep learning models. The solution incorporates Dask, PyTorch (DDP & FSDP), multiprocessing, and CUDA profiling to achieve high performance.
 
